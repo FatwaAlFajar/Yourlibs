@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/faizallmaullana/libraryManagement/controllers/auth"
-	"github.com/faizallmaullana/libraryManagement/controllers/books"
-	"github.com/faizallmaullana/libraryManagement/controllers/borrowing"
-	"github.com/faizallmaullana/libraryManagement/controllers/profile"
-	"github.com/faizallmaullana/libraryManagement/models"
+	"github.com/FatwaAlFajar/Yourlibs/controllers/auth"
+	"github.com/FatwaAlFajar/Yourlibs/controllers/books"
+	"github.com/FatwaAlFajar/Yourlibs/controllers/borrowing"
+	"github.com/FatwaAlFajar/Yourlibs/controllers/profile"
+	"github.com/FatwaAlFajar/Yourlibs/models"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

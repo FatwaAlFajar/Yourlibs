@@ -1,4 +1,4 @@
-module github.com/faizallmaullana/libraryManagement
+module github.com/FatwaAlFajar/Yourlibs
 
 go 1.21.5
 

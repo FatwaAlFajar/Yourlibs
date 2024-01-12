@@ -86,6 +86,7 @@
             .then(data => {
               console.log("Registration successful:", data);
               localStorage.setItem('id', data.data.id);
+              window.location.reload();
               // Handle successful registration, e.g., redirect or show a success message
             })
             .catch(error => {
